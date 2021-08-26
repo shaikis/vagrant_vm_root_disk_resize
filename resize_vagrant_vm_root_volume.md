@@ -1,4 +1,4 @@
-#####
+```
 [root@kubernetes ~]# resize2fs -p -F /dev/sda2
 resize2fs 1.42.9 (28-Dec-2013)
 resize2fs: Device or resource busy while trying to open /dev/sda2
@@ -271,4 +271,4 @@ tmpfs                    1.2G     0  1.2G   0% /sys/fs/cgroup
 tmpfs                    234M     0  234M   0% /run/user/1000
 [root@kubernetes ~]#
 
-#####
+```
